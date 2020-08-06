@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(129, 129, 129);
+  }
+
+h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+  .campos{
+      margin-top: 25px;
+
+      max-width: 700px;
+  }
+
+  .campobaixo{
+      margin-top: 25px;
+  }
+
+  .btn{
+      margin-top: 10px;
+  }

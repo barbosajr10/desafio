@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(110, 110, 110);
+}
+
+table{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.coluna{
+    background-color: rgb(51, 130, 148);
+    margin-right: 10px;
+
+    border: 1px solid black;
+
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+tr{
+    border: 1px solid black;
+    background-color: rgb(57, 158, 180);
+
+    
+}
+
+td{
+    border: 1px solid black;
+    
+}
+
+a{
+   padding: 15px;
+   color: brown;
+}
+
+a:hover{
+    transition: 2s;
+}
+ul{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+ul:hover{
+    transition: 2s;
+    zoom: 1;
+}
