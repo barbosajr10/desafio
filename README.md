@@ -14,7 +14,7 @@ Adicionar a pasta desafio no htdocs
 
 <h2> Atualizar dados do Usuário </h2>
 
-[![index.png](https://i.postimg.cc/kGfSfCDs/index.png)](https://postimg.cc/ctt6LVRt)
+[![atualizar.png](https://i.postimg.cc/mgxXvxwj/atualizar.png)](https://postimg.cc/VdRWtV20)
 
 <h2> Dados atualizados </h2>
 
