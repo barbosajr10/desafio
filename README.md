@@ -13,7 +13,7 @@ Caminho para acesso: http://localhost/desafio/index.php
 [![listagem.png](https://i.postimg.cc/FRGwvPRR/listagem.png)](https://postimg.cc/phhsYJKb)
 
 <h2> Atualizar dados do Usuário </h2>
-[![atualizar.png](https://i.postimg.cc/mgxXvxwj/atualizar.png)](https://postimg.cc/VdRWtV20)
+[![index.png](https://i.postimg.cc/kGfSfCDs/index.png)](https://postimg.cc/ctt6LVRt)
 
 <h2> Dados atualizados </h2>
 [![atualizado.png](https://i.postimg.cc/RFbGG2hc/atualizado.png)](https://postimg.cc/2bh4Sc46)
